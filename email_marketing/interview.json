@@ -1,0 +1,266 @@
+[
+  { "goal": "inbound funnel transparency",
+    "curr": "funnel opacity",
+    "quot": "It just sorta dissappears",
+    "note": "The most painful example of this is people who are applying for 2020 jobs, we have no visibility as to what happens to people as they go through after they hit the 'apply' button. It just sorta dissappears.",
+    "time": 1584639399,
+    "subs": [
+      { "goal": "make the program area look good",
+        "curr": "incentives seem incongruent",
+        "quot": "the way we've had success in the past in showing a program area how effective we are at getting their 'numbers' up",
+        "note": "We want to make them look good. If we make them look good, they are more open to a more fluid collaboration where the information travels both ways, not just one way.",
+        "time": 1584640559,
+        "subs": [
+          { "goal": "high engagement metrics",
+            "curr": "low engagement metrics",
+            "quot": "in your own words",
+            "note": "long description",
+            "time": 1584640751,
+            "subs": [
+              { "goal": "PRIORITY: DB for metrics",
+                "curr": "rely on one month metrics provided by reportspro",
+                "quot": "LOGAN: metrics microservice",
+                "note": "Create a microservice with it's own data store/persistence layer to store all bulletin metrics (Cron job)",
+                "time": 1585146004,
+                "subs": []
+              },
+              { "goal": "open rate",
+                "curr": "current state: input",
+                "quot": "in your own words",
+                "note": "long description",
+                "time": 1584640776,
+                "subs": []
+              },
+              { "goal": "click rate",
+                "curr": "current state: input",
+                "quot": "in your own words",
+                "note": "long description",
+                "time": 1584640784,
+                "subs": []
+              },
+              { "goal": "higher traffic to program area sites",
+                "curr": "flat, low traffic to many sites",
+                "quot": "CEM dashboard makes this easy to see.",
+                "note": "before the email marketing effort, the traffice to AC was very flat. Ever since we started our collaboration, this metric has continuously risen month over month. Beyond that we're able to slice out which amount of the traffic is attributable to the UTM tags we add to the links in govdelivery and measure with Adobe Analytics. I would give Haya numbers when we would cross certain milestones and she liked to share those at her managers meetings that she is a part of. On top of that, I had slide decks that I share during quarterly meetings. The last piece is that PIO - as a result of our efforts - was able to see an increase in inquiries for interview requests from members of the media, so much so that we added a section to our AC messages prompting people to reach out to PIO.",
+                "time": 1584642913,
+                "subs": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  { "goal": "collaboration with program areas",
+    "curr": "often disconnected and ad-hoc",
+    "quot": "Every week we show them the outcome of the outreach efforts and the impact that it makes.",
+    "note": "For America Counts, the reason we have been successful there is that we were able to get buy-in from leadership, we were able to work closely with the program area (Haya et al).  Therefore they were receptive to best practices we provided back to them.",
+    "time": 1584639565,
+    "subs": [
+      { "goal": "program area best practic adoption",
+        "curr": "some are adopting, most are not",
+        "quot": "what's in it for me?",
+        "note": "Originally, AC wanted to include the whole story in the email. Well, if we put everything in the email: first, we can't tell if they're reading it or interacting (we need clicks for that). So, the best practice is to put in 2-3 paragraphs of text with a 'read more' button, hyperlink, image or logo in the message, but make it go back to the primary goal link, which is the story and we found it was more effective and enabled the readers to be more visible and also allowed them to share the story with their friends and family.",
+        "time": 1584639738,
+        "subs": [
+          { "goal": "align incentives",
+            "curr": "disalignment of metrics",
+            "quot": "if you think you're special, you won't follow advice",
+            "note": "Often an area has their own goals and they're not looking at the metrics that we can help them with. For example, PIO might be interested in how many media queries they are sent or how many stories get placed or - I hear - they take anecdotal feedback from journalists very seriously. Also, this relates to culture. They're operating from a reactive place, e.g., as soon as something is published on the website. They have priorities that don't align with our process. Their priorities are directly tied to what leadership agrees are important. Even with Partnerships, after a news release comes out, they will rewrite the newsrelease with some nods to partnerships.",
+            "time": 1584643599,
+            "subs": [
+              { "goal": "educate stakeholders",
+                "curr": "non-journalists making journalistic decisions",
+                "quot": "top-down publishing doesn't scale",
+                "note": "Well, in the AC collaboration, Haya has a journalism background. We both speak the same language in that way. Also, in a newsroom, the content is generated by the journalists and then edited by the leadership. Whereas it seems in government you wait around for content to get decided on for you. There's far less autonomy. Even if you're the so-called expert (and you are hired as such).",
+                "time": 1584640065,
+                "subs": [
+                  { "goal": "quantitative decision making",
+                    "curr": "qualitative decision making",
+                    "quot": "Often program area members are relying on their intuition or anecdotal feedback",
+                    "note": "when they hear from people about the number of messages they receive or are just relying on their own judgement without any substantial evidence, instead of looking at metrics. The best practices are not black and white - for example when it comes to content frequency - we can use the open/unsubscribe rates to inform our practices rather than our own personal feelings about what constitutes too many or too few emails. The research shows that - as long as your content is relavant/useful - you can use unsubscribe rates that cross a benchmark threshold to tell us what the readers want.",
+                    "time": 1584648556,
+                    "subs": []
+                  }
+                ]
+              }
+            ]
+          },
+          { "goal": "interdisciplinary team",
+            "curr": "many people with blinders",
+            "quot": "don't rock the boat",
+            "note": "In many of the comm calls, nobody speaks up. People are generally afraid of saying something that's going to get them in trouble. We try to have meetings where people are able to speak their mind and bring their strength to the table",
+            "time": 1584640429,
+            "subs": [
+              { "goal": "integrated communications campaigns",
+                "curr": "everyone wants to operate independently",
+                "quot": "we want a coherent voice",
+                "note": "these different groups want to operate independently. they have different goals that are not layed out or shared and - on top of that - there's no coordination. it's not an integrations comms campaign. So, we have to wait because we will have messages queued that overlap in audience, and we don't want to drown them with a barrage of emails. So, we filter out subscribers when there's an overlap.",
+                "time": 1584645253,
+                "subs": [
+                  { "goal": "coordination",
+                    "curr": "disorganized",
+                    "quot": "in your own words",
+                    "note": "long description",
+                    "time": 1584645611,
+                    "subs": []
+                  },
+                  { "goal": "territory tolerant",
+                    "curr": "territory constrained",
+                    "quot": "the medium is the message, find easy ways for them to be enabled to make the right choices",
+                    "note": "email is not like a tweet or a press release or a web page. Historically, for example, PIO has their own way of doing things and are resistant to change. They have buy in from leadership and there's no way to get them to change unless leadership tells them to change. We've tried small things with subject lines and calls to action buttons, excerpting their releases instead of including the whole thing, applying utm tags, etc.. But they don't have a QA checklist because they've prioritized getting it out fast even if there's typos and/or broken links. We've hired contractors to help, but they prefer speed over anything else. That's the way it is. ",
+                    "time": 1584645642,
+                    "subs": [
+                      { "goal": "TODO: create templates that have limited characters in subject lines?"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  { "goal": "lean/agile team",
+    "curr": "opportunities for efficiency",
+    "quot": "",
+    "note": "",
+    "time": 1584641158,
+    "subs": [
+      { "goal": "better tooling",
+        "curr": "lots of manual work",
+        "quot": "in your own words",
+        "note": "long description",
+        "time": 1584641226,
+        "subs": []
+      },
+      { "goal": "more innovation",
+        "curr": "lots of routine",
+        "quot": "in your own words",
+        "note": "long description",
+        "time": 1584642092,
+        "subs": [
+          { "goal": "focus",
+            "curr": "scattered",
+            "quot": "there are things that we do that are routine and don't produce a lot of value",
+            "note": "It would be nice to have more time to do more experimental optimizations or strategic initiatives.",
+            "time": 1584646942,
+            "subs": [
+              { "goal": "focus: Subscriber Growth",
+                "curr": "all over the place",
+                "quot": "there are surmountable barriers here",
+                "note": "We have email sign up forms and overlays on census.gov and CNMP will silently take them down (without telling us). We've been talking about ways that we can get them back up. I talked to Steven about this and his suggestion was to add a sign up for on the thank you page after people submit their Census forms. We swung that by Lisa and she said there's already one there, but it's the least effective version.",
+                "time": 1584646405,
+                "subs": [
+                  { "goal": "growth in absolute numbers",
+                    "curr": "growth in absolute numbers",
+                    "quot": "DONE",
+                    "note": "FIXME: HOW MANY SUBSCRIBERS DID WE INHERIT?",
+                    "time": 1584647999,
+                    "subs": []
+                  },
+                  { "goal": "high subscriber growth RATE",
+                    "curr": "steady growth RATE",
+                    "quot": "we look at this rate along a number of time-blocked benchmarks: weekly, monthly, yearly, etc.",
+                    "note": "long description",
+                    "time": 1584648193,
+                    "subs": []
+                  },
+                  { "goal": "high new subscriber engagement",
+                    "curr": "low new subscriber engagement",
+                    "quot": "PRIORITY: cohort analyses",
+                    "note": "Break up subscribers by sign up date (current work by Granicus underway)...easy way for us to measure this is the 'Welcome' campaign, which is a message that we send to all new subscribers and we found that their engagement is much higher (40% open rate) than our 'normal' list (10% open rate). The theory there is get people engaged when they first sign up and then keep them engaged through a series of DRIP campaigns. We had them setup, but the government shutdown set us back.",
+                    "time": 1584648303,
+                    "subs": []
+                  },
+                  { "goal": "high total digital impressions",
+                    "curr": "medium total digital impressions",
+                    "quot": "we've been growing month over month",
+                    "note": "This metric allows us to quantify our reach. The formula equates to: (/ (+ total-opens total-clicks total-social-media-clicks) total-messages-delivered ) = 'digital engagement rate'. We use this to set a baseline for what we can expect for various messages of different sizes and audiences are, which helps us make a better apples to apples comparison ",
+                    "time": 1584648912,
+                    "subs": []
+                  },
+                  { "goal": "higher 'engagement' rate",
+                    "curr": "medium 'engagement' rate",
+                    "quot": "govdelivery has their own metric: 'engagement rate'",
+                    "note": "This is a metric calculated by govdelivery and equates to: (/ total-opens+clicks-over-past-90-days total-messages-delivered-over-past-90-days). Mary will include this in the WAR report to give a sense of what the diff is here. Some of our lowest performers here are: Stats for Stories & Stats for Schools, those lists have a high %age of legacy subs and dormant subs. The highest those have ever been is @40-44%. A lot - when we started - were in 20%-30%. For some: Census Updates or 2020 Census list (I started from scratch), the engagement is 60-65%. If we place a heavy emphasis on subscriber growth, we have found that focusing on engagement rates helps us grow",
+                    "time": 1584649178,
+                    "subs": []
+                  }
+                ]
+              },
+              { "goal": "focus: SEO input",
+                "curr": "completely out of the SEO loop",
+                "quot": "I didn't get any traction with CNMP with SEO",
+                "note": "",
+                "time": 1584646425,
+                "subs": []
+              },
+              { "goal": "A/B testing/experiments",
+                "curr": "just one pipe",
+                "quot": "in your own words",
+                "note": "Part of the issue is that A/B testing is complex. It increases the chance that we will make mistakes. Also, the contractors and our team don't have experience with it. On the other hand, if we could do more of this, we'd be better equipped to know our readers behavior",
+                "time": 1584646781,
+                "subs": []
+              }
+            ]
+          },
+          { "goal": "automation",
+            "curr": "manual slogs",
+            "quot": "in your own words",
+            "note": "long description",
+            "time": 1584647026,
+            "subs": [
+              { "goal": "useful 'Heads Up' message/review",
+                "curr": "somewhat arbitrary 'Heads Up' message",
+                "quot": "Our current 'Heads Up' message can be counter-productive",
+                "note": "The fact that we're sending this heads up message and then waiting for 15 minutes, effectively instead of increasing certainty it decreases certainty. People don't respond and I'm like 'Am I covered?' 'Am I not covered?'",
+                "time": 1584647060,
+                "subs": []
+              },
+              { "goal": "Good QA",
+                "curr": "Highly manual QA",
+                "quot": "",
+                "note": "I've been QA'ing less, but I'll still look at messages, because if we make any more mistakes it will be bad. They might take our toys away. I have been working to make the process easier. We've brought people on board to help out with that, but it's not a perfect situation.",
+                "time": 1584647386,
+                "subs": [
+                  { "goal": "automated Content check",
+                    "curr": "manual content check",
+                    "quot": "TODO: get a Grammarly account for QA",
+                    "note": "We still make spelling and/or grammar mistakes",
+                    "time": 1584647636,
+                    "subs": [
+                      { "goal": "PRIORITY: Link Checker",
+                        "curr": "manual link checking for each email with codesandbox app",
+                        "quot": "create a microservice for automatically checking for broken links",
+                        "note": "a microservice that is triggered by being first included in the test email that pull the email in and tests the links then sends an email back with a report",
+                        "time": 1585146095,
+                        "subs": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              { "goal": "automate content loading",
+                "curr": "manually loading content",
+                "quot": "If we can save a few minutes every time we post - using TODO: StoryPorts or another tool - would be helpful",
+                "note": "The issue is that we don't have the infrastructure or the tools in place to automate all 200 admins in GovDelivery",
+                "time": 1584647571,
+                "subs": []
+              },
+              { "goal": "remove GovDelivery Admin Role",
+                "curr": "currently acting as admin",
+                "quot": "We're managing account acquisition, on-boarding, access priviledges, removing accounts, setting up topics and training",
+                "note": "it's like an entirely separate job (which Rebeccah used to be the owner of) that we're having to now do ourselves. Additionally, I'm also doing all the contract/ATO stuff related to GovDelivery, but these are all things that I'd rather delegate.",
+                "time": 1584647775,
+                "subs": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

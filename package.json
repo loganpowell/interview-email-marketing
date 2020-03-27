@@ -1,0 +1,23 @@
+{
+  "name": "interviews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@thi.ng/paths": "^3.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loganpowell/interview-email-marketing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loganpowell/interview-email-marketing/issues"
+  },
+  "homepage": "https://github.com/loganpowell/interview-email-marketing#readme"
+}
